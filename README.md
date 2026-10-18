@@ -1,4 +1,5 @@
 **Glorbo is a desktop pet that can:**
+(\n)
 *Fly around and bounce off the screen
 *Be thrown
 *Abduct Cows (You can spawn a cow by right clicking Glorbo and cows also have a 1 / 33 chance of spawning every second)
