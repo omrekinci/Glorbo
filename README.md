@@ -18,5 +18,6 @@ Click download on the link (https://blegghh.itch.io/glorbo) and open
 **Bugs**:
 
 Right now Glorbo can sometimes get stuck and start staying still, if it does that you can click or drag Glorbo to get it unstuck
+When Glorbo gets stuck all the cows start piling up and lagging the computer so I wouldnt reccomend leaving Glorbo open while youre AFK for now D:
 
 :DDDDDDDDD
